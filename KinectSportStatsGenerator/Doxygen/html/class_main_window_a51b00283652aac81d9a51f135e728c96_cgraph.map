@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_main_window.html#a73f2e7ac6d87fa6bc69496aadc98059a" title="MainWindow::killExistingWindows" alt="" coords="373,5,613,35"/>
+<area shape="rect" id="node5" href="$class_main_window.html#aeff9f5349a1cfbf8c9fdb9168e9e6ab8" title="MainWindow::setImportToolBarVisibility" alt="" coords="352,59,635,88"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a5a4af468d6744c7f421a7a0ec9d04234" title="MainWindow::setLiveSetUpToolBarVisibility" alt="" coords="340,112,647,141"/>
+<area shape="rect" id="node9" href="$class_main_window.html#aa9a6b4803e384698929bdd08fbfcea86" title="MainWindow::setLiveStartUpToolBarVisibility" alt="" coords="335,165,652,195"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a3451dd43236a983cf28fca4aac076920" title="MainWindow::setPlayerToolBarVisibility" alt="" coords="353,219,633,248"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_screen_quad.html#af263f03cb139a7f5418174cb714ee327" title="ScreenQuad::draw" alt="" coords="324,5,471,35"/>
+<area shape="rect" id="node5" href="$class_kinect_interface.html#a812d3a247e41f00345c3e48a73abe048" title="get the RGB buffer" alt="" coords="301,59,493,88"/>
+<area shape="rect" id="node7" href="$class_kinect_interface.html#a13c9a56bd98aaf46329914b7323944c7" title="get the instance of the KinectInterface object this will call the init method of..." alt="" coords="299,112,496,141"/>
+<area shape="rect" id="node9" href="$class_kinect_interface.html#a98b9d6c718284304d466c8115d97d0f1" title="private copy ctor as we are a singleton class" alt="" coords="544,112,704,141"/>
+<area shape="rect" id="node11" href="$class_kinect_interface.html#a87b442a4f36e646fd9f0d27509030f84" title="this hooks into the feenet callback system an is the main way of getting the data..." alt="" coords="763,5,997,35"/>
+<area shape="rect" id="node16" href="$class_q_kinect_process_events.html#a492cc55fcd53ffc1d4d2e4822c9234dc" title="sets the thread active this will loop the run thread with a while(m_active) setting..." alt="" coords="753,59,1007,88"/>
+<area shape="rect" id="node18" href="$class_kinect_interface.html#aa6b0220f7d3310199f699a11ad04e1d0" title="start the Depth buffer grabbing subsystem" alt="" coords="772,112,988,141"/>
+<area shape="rect" id="node20" href="$class_kinect_interface.html#ac175937429aed66eac7a131ba540afb3" title="start the Video buffer grabbing subsystem" alt="" coords="775,165,985,195"/>
+<area shape="rect" id="node22" href="$class_kinect_interface.html#aa08ef063072d6dd62b72507c87fa689a" title="this hooks into the feenet callback system an is the main way of getting the data..." alt="" coords="765,219,995,248"/>
+<area shape="rect" id="node13" href="$class_kinect_interface.html#a94998433b4c199f8fc167f7d5abd0262" title="method to grab the depth passed to the depthCallback function as we are hooking into..." alt="" coords="1056,5,1267,35"/>
+<area shape="rect" id="node24" href="$class_kinect_interface.html#a350fab4e013ae9ebba93951e0c0ae097" title="method to grab the Video passed to the depthCallback function as we are hooking into..." alt="" coords="1059,219,1264,248"/>
+</map>

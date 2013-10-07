@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_screen_quad_8cpp.html" title="ScreenQuad.cpp" alt="" coords="5,83,136,112"/>
+<area shape="rect" id="node5" href="$_ball_tracking_utility_8h.html" title="ball track utility" alt="" coords="160,83,309,112"/>
+<area shape="rect" id="node11" href="$_ball_tracking_visualization_8h.html" title="ball track visualization" alt="" coords="779,83,973,112"/>
+<area shape="rect" id="node16" href="$_depth_debug_visualization_8h.html" title="ball track visualization" alt="" coords="333,83,536,112"/>
+<area shape="rect" id="node21" href="$_r_g_bbounds_visualization_8h.html" title="a basic Qt GL window class for ngl demos" alt="" coords="560,83,755,112"/>
+<area shape="rect" id="node26" href="$_stats_visualization_8h.html" title="stats visualization" alt="" coords="997,83,1152,112"/>
+<area shape="rect" id="node7" href="$_ball_tracking_utility_8cpp.html" title="BallTrackingUtility.cpp" alt="" coords="120,160,285,189"/>
+<area shape="rect" id="node9" href="$_main_window_8cpp.html" title="MainWindow.cpp" alt="" coords="787,160,917,189"/>
+<area shape="rect" id="node13" href="$_ball_tracking_visualization_8cpp.html" title="BallTrackingVisualization.cpp" alt="" coords="941,160,1152,189"/>
+<area shape="rect" id="node18" href="$_depth_debug_visualization_8cpp.html" title="DepthDebugVisualization.cpp" alt="" coords="309,160,528,189"/>
+<area shape="rect" id="node24" href="$_r_g_bbounds_visualization_8cpp.html" title="RGBboundsVisualization.cpp" alt="" coords="552,160,763,189"/>
+<area shape="rect" id="node30" href="$_stats_visualization_8cpp.html" title="StatsVisualization.cpp" alt="" coords="1176,160,1347,189"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_main_window.html#a07bccc4de641c5a7d72d1628d3cb5b5b" title="MainWindow::deleteCurrentDepthvz" alt="" coords="341,5,611,35"/>
+<area shape="rect" id="node5" href="$class_main_window.html#ae926db585bdd236dfaa5021ff3c03b84" title="MainWindow::deleteCurrentRGBvz" alt="" coords="348,59,604,88"/>
+<area shape="rect" id="node7" href="$class_main_window.html#acb5fb43067cc4abf08eb902bd676af26" title="MainWindow::deleteCurrentStatsvz" alt="" coords="345,112,607,141"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a6eddbb55b8008ee8ef6b5447bef60b02" title="MainWindow::deleteCurrentTrackingvz" alt="" coords="337,165,615,195"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_kinect_interface.html#aa6b0220f7d3310199f699a11ad04e1d0" title="start the Depth buffer grabbing subsystem" alt="" coords="317,5,533,35"/>
+<area shape="rect" id="node5" href="$class_kinect_interface.html#a7b73cfc2d221fdfda087fe6ca5c8cd39" title="stop the Depth buffer grabbing subsystem" alt="" coords="320,59,531,88"/>
+</map>

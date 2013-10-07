@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_kinect_interface.html#ade531f82baadaeefe01f9c3e37340930" title="method to shutdown our device and close" alt="" coords="269,5,520,35"/>
+<area shape="rect" id="node5" href="$class_q_kinect_process_events.html#a0b5a492232dcce352a77a183dab34cb4" title="sets the thread active must call QThread::start again to make this work if the thread..." alt="" coords="568,5,835,35"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_main_window.html#a51b00283652aac81d9a51f135e728c96" title="MainWindow::buildImportWindowSetUp" alt="" coords="219,112,499,141"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a73f2e7ac6d87fa6bc69496aadc98059a" title="MainWindow::killExistingWindows" alt="" coords="607,5,847,35"/>
+<area shape="rect" id="node16" href="$class_stats_visualization.html#aac91d1feb6375b2a9eabbf66c3232256" title="StatsVisualization::readFile" alt="" coords="257,219,460,248"/>
+<area shape="rect" id="node7" href="$class_main_window.html#aeff9f5349a1cfbf8c9fdb9168e9e6ab8" title="MainWindow::setImportToolBarVisibility" alt="" coords="585,59,868,88"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a5a4af468d6744c7f421a7a0ec9d04234" title="MainWindow::setLiveSetUpToolBarVisibility" alt="" coords="573,112,880,141"/>
+<area shape="rect" id="node11" href="$class_main_window.html#aa9a6b4803e384698929bdd08fbfcea86" title="MainWindow::setLiveStartUpToolBarVisibility" alt="" coords="568,165,885,195"/>
+<area shape="rect" id="node13" href="$class_main_window.html#a3451dd43236a983cf28fca4aac076920" title="MainWindow::setPlayerToolBarVisibility" alt="" coords="587,219,867,248"/>
+<area shape="rect" id="node18" href="$class_stats_visualization.html#acf88418e1908e5df828f112dae0f5c27" title="StatsVisualization::fillDataFromFileForBothPlayers" alt="" coords="548,272,905,301"/>
+</map>

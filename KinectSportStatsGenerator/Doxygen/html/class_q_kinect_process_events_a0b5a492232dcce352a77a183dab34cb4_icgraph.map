@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_kinect_interface.html#ade531f82baadaeefe01f9c3e37340930" title="method to shutdown our device and close" alt="" coords="320,5,571,35"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a3c2e352934c6318d405c3d2b0e07729c" title="override the keyPressEvent inherited from QObject so we can handle key presses." alt="" coords="620,5,833,35"/>
+</map>

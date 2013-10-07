@@ -1,0 +1,12 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_two_d_stats_generation_8cpp.html" title="TwoDStatsGeneration.cpp" alt="" coords="252,83,449,112"/>
+<area shape="rect" id="node5" href="$_player_data_8h.html" title="data class for players" alt="" coords="473,83,583,112"/>
+<area shape="rect" id="node7" href="$_main_window_8cpp.html" title="MainWindow.cpp" alt="" coords="405,237,536,267"/>
+<area shape="rect" id="node9" href="$_player_data_8cpp.html" title="PlayerData.cpp" alt="" coords="687,160,812,189"/>
+<area shape="rect" id="node11" href="$_ball_points_processing_8h.html" title="ball track utility" alt="" coords="232,160,403,189"/>
+<area shape="rect" id="node18" href="$_stats_visualization_8h.html" title="stats visualization" alt="" coords="508,160,663,189"/>
+<area shape="rect" id="node13" href="$_ball_points_processing_8cpp.html" title="BallPointsProcessing.cpp" alt="" coords="195,237,381,267"/>
+<area shape="rect" id="node15" href="$_ball_tracking_utility_8cpp.html" title="BallTrackingUtility.cpp" alt="" coords="5,237,171,267"/>
+<area shape="rect" id="node20" href="$_ball_tracking_visualization_8cpp.html" title="BallTrackingVisualization.cpp" alt="" coords="755,237,965,267"/>
+<area shape="rect" id="node23" href="$_stats_visualization_8cpp.html" title="StatsVisualization.cpp" alt="" coords="560,237,731,267"/>
+</map>

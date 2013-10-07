@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_kinect_interface.html#a87b442a4f36e646fd9f0d27509030f84" title="this hooks into the feenet callback system an is the main way of getting the data..." alt="" coords="264,272,499,301"/>
+<area shape="rect" id="node5" href="$class_kinect_interface.html#a98b9d6c718284304d466c8115d97d0f1" title="private copy ctor as we are a singleton class" alt="" coords="547,297,707,327"/>
+<area shape="rect" id="node7" href="$class_kinect_interface.html#a13c9a56bd98aaf46329914b7323944c7" title="get the instance of the KinectInterface object this will call the init method of..." alt="" coords="755,245,952,275"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a93928b6200958fc766089853eb9fdce5" title="MainWindow::buildLiveWindowSetUp" alt="" coords="1027,5,1288,35"/>
+<area shape="rect" id="node13" href="$class_main_window.html#af50c44bd4828bae894d20db21e700f5e" title="MainWindow::buildTrackingVzWindowSetUp" alt="" coords="1005,59,1309,88"/>
+<area shape="rect" id="node17" href="$class_r_g_bbounds_visualization.html#ab88d4a0cd66600bd87fd1340c370757f" title="this method is called everytime the mouse button is pressed inherited from QObject..." alt="" coords="1000,112,1315,141"/>
+<area shape="rect" id="node19" href="$class_r_g_bbounds_visualization.html#ac9bb64af7cefcb1107d5ae7324f39356" title="this is the main gl drawing routine which is called whenever the window needs to" alt="" coords="1036,165,1279,195"/>
+<area shape="rect" id="node21" href="$class_depth_debug_visualization.html#acb507ccc2e4e06b7ec266eb81c19c406" title="this is the main gl drawing routine which is called whenever the window needs to" alt="" coords="1031,219,1284,248"/>
+<area shape="rect" id="node23" href="$class_ball_tracking_visualization.html#a6b114ba5854490b5d80789c66d842e5c" title="this is the main gl drawing routine which is called whenever the window needs to" alt="" coords="1036,272,1279,301"/>
+<area shape="rect" id="node25" href="$class_stats_visualization.html#ade24f1574f8eda60cb6e8264e5dfe682" title="the timer event triggered from the timers" alt="" coords="1043,325,1272,355"/>
+<area shape="rect" id="node27" href="$class_ball_tracking_utility.html#a407c9becd9b22fa1bf68bc1fefc5ea3b" title="BallTrackingUtility::trackBall" alt="" coords="1055,379,1260,408"/>
+<area shape="rect" id="node33" href="$class_kinect_interface.html#aa08ef063072d6dd62b72507c87fa689a" title="this hooks into the feenet callback system an is the main way of getting the data..." alt="" coords="1043,432,1272,461"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a93cfdcac35db98baf6a7d2c2738a2006" title="constructor" alt="" coords="1399,32,1593,61"/>
+<area shape="rect" id="node29" href="$class_ball_tracking_utility.html#a617412a5cfcf75bfa4a64768ccbfb8ee" title="BallTrackingUtility::BallTrackingUtility" alt="" coords="1364,352,1628,381"/>
+<area shape="rect" id="node31" href="$class_ball_tracking_utility.html#a54e21321a40e6d186198d56f8b7f8c91" title="called when the timer is triggered" alt="" coords="1383,405,1609,435"/>
+</map>

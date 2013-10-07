@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_main_window.html#a51b00283652aac81d9a51f135e728c96" title="MainWindow::buildImportWindowSetUp" alt="" coords="373,35,653,65"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a93cfdcac35db98baf6a7d2c2738a2006" title="constructor" alt="" coords="1027,87,1221,117"/>
+<area shape="rect" id="node10" href="$class_main_window.html#a93928b6200958fc766089853eb9fdce5" title="MainWindow::buildLiveWindowSetUp" alt="" coords="716,139,977,169"/>
+<area shape="rect" id="node13" href="$class_main_window.html#af50c44bd4828bae894d20db21e700f5e" title="MainWindow::buildTrackingVzWindowSetUp" alt="" coords="361,190,665,219"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a0587faba030a8b9a1bba5bb3235ebe5c" title="MainWindow::readFile" alt="" coords="764,35,929,65"/>
+</map>

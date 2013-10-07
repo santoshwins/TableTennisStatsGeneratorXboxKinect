@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_player_data.html#a33623f7bc7680a13a8760adbad5d8ae6" title="PlayerData::getPlayerBallPtsAll" alt="" coords="443,5,677,35"/>
+<area shape="rect" id="node5" href="$class_player_data.html#ae83c2890c4d60858155a8c98d28ebc88" title="PlayerData::getPlayerImpactPtsAllRallies" alt="" coords="409,59,711,88"/>
+<area shape="rect" id="node7" href="$class_two_d_stats_generation.html#a426683ae25ad0a974aa2e309deccd627" title="TwoDStatsGeneration::calculatePlayerImpactPtsFromIndices" alt="" coords="760,59,1195,88"/>
+</map>

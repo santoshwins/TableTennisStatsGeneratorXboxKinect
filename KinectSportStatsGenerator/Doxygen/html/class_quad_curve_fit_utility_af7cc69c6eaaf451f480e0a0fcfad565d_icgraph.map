@@ -1,0 +1,19 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_quad_curve_fit_utility.html#aadaa5f2c60bef0f7ed35a86dbf0432f0" title="QuadCurveFitUtility::getDifferential" alt="" coords="284,59,545,88"/>
+<area shape="rect" id="node31" href="$class_quad_curve_fit_utility.html#acc14dcbc0fec57cde8f5947a14a30649" title="QuadCurveFitUtility::getPredictedY" alt="" coords="284,112,545,141"/>
+<area shape="rect" id="node5" href="$class_quad_curve_fit_utility.html#a3b68dabeeb40c2f80deaefda010324c5" title="QuadCurveFitUtility::processParametricPoints3D" alt="" coords="596,59,945,88"/>
+<area shape="rect" id="node7" href="$class_three_d_stats_generation.html#a152c5a60c2297fbffa8dc13b7d9d7848" title="ThreeDStatsGeneration::generateInterpolatedDataForAllRallies" alt="" coords="996,59,1449,88"/>
+<area shape="rect" id="node9" href="$class_player_data.html#a43dfc103a6b01cb7ed156201700973e7" title="PlayerData::getPlayerInterpolatedBallPtsAll" alt="" coords="1499,5,1819,35"/>
+<area shape="rect" id="node19" href="$class_player_data.html#ac2d538334ac426b8b35dd5d46296d80a" title="PlayerData::getPlayerSpeedData" alt="" coords="1533,59,1784,88"/>
+<area shape="rect" id="node25" href="$class_player_data.html#a9acc525bfe75a976266ba83f5bc4a5da" title="PlayerData::getRevolutionsPerMinute" alt="" coords="1519,112,1799,141"/>
+<area shape="rect" id="node11" href="$class_stats_visualization.html#a57cd69736123c4e0e61d8e09df61ac9c" title="StatsVisualization::buildTrajectory" alt="" coords="1868,5,2119,35"/>
+<area shape="rect" id="node13" href="$class_stats_visualization.html#abf72212e10e0facce24b8d7c2f53b08e" title="StatsVisualization::drawEntireScene" alt="" coords="2168,32,2435,61"/>
+<area shape="rect" id="node17" href="$class_stats_visualization.html#ad2d64d2943e09af7341fd4ae6e15ee07" title="StatsVisualization::writeFile" alt="" coords="2197,85,2405,115"/>
+<area shape="rect" id="node15" href="$class_stats_visualization.html#a5b3fcea08e858ae1516a0c7a62ec0c1c" title="this is the main gl drawing routine which is called whenever the window needs to..." alt="" coords="2484,32,2687,61"/>
+<area shape="rect" id="node21" href="$class_stats_visualization.html#af6f059400248796a411492c73b8b780f" title="StatsVisualization::buildSpeedMap" alt="" coords="1868,59,2119,88"/>
+<area shape="rect" id="node27" href="$class_stats_visualization.html#a4a890c9e9875db2cd2a853455ffdf07c" title="StatsVisualization::buildRPMData" alt="" coords="1871,112,2116,141"/>
+<area shape="rect" id="node33" href="$class_quad_curve_fit_utility.html#a792a7160afb1561968a099c1f67597c3" title="QuadCurveFitUtility::getSSerr" alt="" coords="660,112,881,141"/>
+<area shape="rect" id="node37" href="$class_quad_curve_fit_utility.html#a6ba1603f53566b63fb41f10caa5bb870" title="QuadCurveFitUtility::processParametricPoints" alt="" coords="605,165,936,195"/>
+<area shape="rect" id="node40" href="$class_quad_curve_fit_utility.html#ae4fbea916936814505df182264cbdf44" title="QuadCurveFitUtility::processPoints" alt="" coords="643,219,899,248"/>
+<area shape="rect" id="node35" href="$class_quad_curve_fit_utility.html#acb3295c3cc3655c15b31d5a3bec14e65" title="QuadCurveFitUtility::getRSquare" alt="" coords="1101,112,1344,141"/>
+</map>

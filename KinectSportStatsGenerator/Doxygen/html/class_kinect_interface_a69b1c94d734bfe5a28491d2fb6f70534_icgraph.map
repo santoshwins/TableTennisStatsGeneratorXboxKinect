@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ball_tracking_visualization.html#a6b114ba5854490b5d80789c66d842e5c" title="this is the main gl drawing routine which is called whenever the window needs to" alt="" coords="297,5,540,35"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a46f5cca022a5b15f60064574dfbc64ba" title="MainWindow::setTrackingFlag" alt="" coords="311,59,527,88"/>
+<area shape="rect" id="node9" href="$class_ball_tracking_utility.html#a407c9becd9b22fa1bf68bc1fefc5ea3b" title="BallTrackingUtility::trackBall" alt="" coords="316,112,521,141"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a93cfdcac35db98baf6a7d2c2738a2006" title="constructor" alt="" coords="625,59,820,88"/>
+<area shape="rect" id="node11" href="$class_ball_tracking_utility.html#a617412a5cfcf75bfa4a64768ccbfb8ee" title="BallTrackingUtility::BallTrackingUtility" alt="" coords="591,112,855,141"/>
+<area shape="rect" id="node13" href="$class_ball_tracking_utility.html#a54e21321a40e6d186198d56f8b7f8c91" title="called when the timer is triggered" alt="" coords="609,165,836,195"/>
+</map>

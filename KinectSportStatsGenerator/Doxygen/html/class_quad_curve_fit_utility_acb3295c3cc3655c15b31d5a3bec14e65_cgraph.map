@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_quad_curve_fit_utility.html#a792a7160afb1561968a099c1f67597c3" title="QuadCurveFitUtility::getSSerr" alt="" coords="299,59,520,88"/>
+<area shape="rect" id="node17" href="$class_quad_curve_fit_utility.html#ae974001f270aaee75490e2245a4da39b" title="QuadCurveFitUtility::getSStot" alt="" coords="297,112,521,141"/>
+<area shape="rect" id="node5" href="$class_quad_curve_fit_utility.html#acc14dcbc0fec57cde8f5947a14a30649" title="QuadCurveFitUtility::getPredictedY" alt="" coords="571,59,832,88"/>
+<area shape="rect" id="node7" href="$class_quad_curve_fit_utility.html#af7cc69c6eaaf451f480e0a0fcfad565d" title="QuadCurveFitUtility::getATerm" alt="" coords="883,5,1109,35"/>
+<area shape="rect" id="node11" href="$class_quad_curve_fit_utility.html#ab7afdd357301fbfa58f4d353d0584739" title="QuadCurveFitUtility::getBTerm" alt="" coords="881,59,1111,88"/>
+<area shape="rect" id="node14" href="$class_quad_curve_fit_utility.html#a135867ae31e25ec7acc36160579cb046" title="QuadCurveFitUtility::getCTerm" alt="" coords="881,112,1111,141"/>
+<area shape="rect" id="node9" href="$class_quad_curve_fit_utility.html#a1d5719f0e64da0d0a3a87f45ddc819e0" title="QuadCurveFitUtility::getSxy" alt="" coords="1160,59,1371,88"/>
+<area shape="rect" id="node19" href="$class_quad_curve_fit_utility.html#ad2bc0fcc27c52477b05eaec12800dfc2" title="QuadCurveFitUtility::getYMean" alt="" coords="585,112,817,141"/>
+</map>

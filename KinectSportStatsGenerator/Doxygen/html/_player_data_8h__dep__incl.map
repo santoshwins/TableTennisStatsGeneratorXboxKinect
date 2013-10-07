@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_main_window_8cpp.html" title="MainWindow.cpp" alt="" coords="405,160,536,189"/>
+<area shape="rect" id="node5" href="$_player_data_8cpp.html" title="PlayerData.cpp" alt="" coords="687,83,812,112"/>
+<area shape="rect" id="node7" href="$_ball_points_processing_8h.html" title="ball track utility" alt="" coords="232,83,403,112"/>
+<area shape="rect" id="node14" href="$_stats_visualization_8h.html" title="stats visualization" alt="" coords="508,83,663,112"/>
+<area shape="rect" id="node9" href="$_ball_points_processing_8cpp.html" title="BallPointsProcessing.cpp" alt="" coords="195,160,381,189"/>
+<area shape="rect" id="node11" href="$_ball_tracking_utility_8cpp.html" title="BallTrackingUtility.cpp" alt="" coords="5,160,171,189"/>
+<area shape="rect" id="node16" href="$_ball_tracking_visualization_8cpp.html" title="BallTrackingVisualization.cpp" alt="" coords="755,160,965,189"/>
+<area shape="rect" id="node19" href="$_stats_visualization_8cpp.html" title="StatsVisualization.cpp" alt="" coords="560,160,731,189"/>
+</map>

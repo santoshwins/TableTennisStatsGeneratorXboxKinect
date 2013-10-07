@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_stats_visualization_8h.html" title="stats visualization" alt="" coords="753,83,908,112"/>
+<area shape="rect" id="node48" href="$_kinect_interface_8h.html" title="a Qt wrapper for the OpenKinect project a lot of the code has been modified from..." alt="" coords="1404,315,1545,344"/>
+<area shape="rect" id="node5" href="$_screen_quad_8h.html" title="a basic Qt GL window class for ngl demos" alt="" coords="523,160,637,189"/>
+<area shape="rect" id="node13" href="$_player_data_8h.html" title="data class for players" alt="" coords="712,160,821,189"/>
+<area shape="rect" id="node15" href="$_two_d_stats_generation_8h.html" title="TwoDStatsGeneration.h" alt="" coords="763,315,944,344"/>
+<area shape="rect" id="node18" href="$_three_d_stats_generation_8h.html" title="ThreeDStatsGeneration.h" alt="" coords="884,237,1079,267"/>
+<area shape="rect" id="node21" href="$_quad_curve_fit_utility_8h.html" title="QuadCurveFitUtility.h" alt="" coords="1019,315,1181,344"/>
+</map>

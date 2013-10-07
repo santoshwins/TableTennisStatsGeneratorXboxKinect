@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_ball_points_processing.html#a0521cc82d6b36c17378069ba8537cbed" title="BallPointsProcessing::processTrackingData" alt="" coords="307,59,616,88"/>
+<area shape="rect" id="node11" href="$class_stats_visualization.html#a6adbeadf75c5631115ff02d170e0f9df" title="StatsVisualization::updateDisplay" alt="" coords="337,112,585,141"/>
+<area shape="rect" id="node5" href="$class_player_data.html#a336e1933ec8e93d340d7516972002989" title="PlayerData::setPlayerBallPts" alt="" coords="707,5,925,35"/>
+<area shape="rect" id="node7" href="$class_player_data.html#a246cd86f2b639619accc9838c40df460" title="PlayerData::setPlayerDataProcessedFlag" alt="" coords="664,59,968,88"/>
+<area shape="rect" id="node9" href="$class_player_data.html#a8b00e25bf1ee1e329f30b842992e84c5" title="PlayerData::setPlayerImpactPtIndices" alt="" coords="675,112,957,141"/>
+</map>

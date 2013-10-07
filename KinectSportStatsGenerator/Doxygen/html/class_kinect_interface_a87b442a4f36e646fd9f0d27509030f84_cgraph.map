@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_kinect_interface.html#a94998433b4c199f8fc167f7d5abd0262" title="method to grab the depth passed to the depthCallback function as we are hooking into..." alt="" coords="288,60,499,89"/>
+<area shape="rect" id="node5" href="$class_kinect_interface.html#a13c9a56bd98aaf46329914b7323944c7" title="get the instance of the KinectInterface object this will call the init method of..." alt="" coords="295,164,492,193"/>
+<area shape="rect" id="node7" href="$class_kinect_interface.html#a98b9d6c718284304d466c8115d97d0f1" title="private copy ctor as we are a singleton class" alt="" coords="547,112,707,141"/>
+<area shape="rect" id="node10" href="$class_q_kinect_process_events.html#a492cc55fcd53ffc1d4d2e4822c9234dc" title="sets the thread active this will loop the run thread with a while(m_active) setting..." alt="" coords="756,5,1009,35"/>
+<area shape="rect" id="node12" href="$class_kinect_interface.html#aa6b0220f7d3310199f699a11ad04e1d0" title="start the Depth buffer grabbing subsystem" alt="" coords="775,59,991,88"/>
+<area shape="rect" id="node14" href="$class_kinect_interface.html#ac175937429aed66eac7a131ba540afb3" title="start the Video buffer grabbing subsystem" alt="" coords="777,112,988,141"/>
+<area shape="rect" id="node16" href="$class_kinect_interface.html#aa08ef063072d6dd62b72507c87fa689a" title="this hooks into the feenet callback system an is the main way of getting the data..." alt="" coords="768,165,997,195"/>
+<area shape="rect" id="node18" href="$class_kinect_interface.html#a350fab4e013ae9ebba93951e0c0ae097" title="method to grab the Video passed to the depthCallback function as we are hooking into..." alt="" coords="1059,165,1264,195"/>
+</map>

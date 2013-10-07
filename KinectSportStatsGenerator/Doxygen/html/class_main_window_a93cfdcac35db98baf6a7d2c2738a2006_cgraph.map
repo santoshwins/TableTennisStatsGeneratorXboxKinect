@@ -1,0 +1,37 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_main_window.html#a51b00283652aac81d9a51f135e728c96" title="MainWindow::buildImportWindowSetUp" alt="" coords="569,194,849,224"/>
+<area shape="rect" id="node7" href="$class_main_window.html#aeff9f5349a1cfbf8c9fdb9168e9e6ab8" title="MainWindow::setImportToolBarVisibility" alt="" coords="951,136,1233,165"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a5a4af468d6744c7f421a7a0ec9d04234" title="MainWindow::setLiveSetUpToolBarVisibility" alt="" coords="939,242,1245,272"/>
+<area shape="rect" id="node11" href="$class_main_window.html#aa9a6b4803e384698929bdd08fbfcea86" title="MainWindow::setLiveStartUpToolBarVisibility" alt="" coords="933,456,1251,485"/>
+<area shape="rect" id="node13" href="$class_main_window.html#a3451dd43236a983cf28fca4aac076920" title="MainWindow::setPlayerToolBarVisibility" alt="" coords="952,402,1232,432"/>
+<area shape="rect" id="node15" href="$class_main_window.html#a93928b6200958fc766089853eb9fdce5" title="MainWindow::buildLiveWindowSetUp" alt="" coords="579,298,840,328"/>
+<area shape="rect" id="node44" href="$class_main_window.html#af50c44bd4828bae894d20db21e700f5e" title="MainWindow::buildTrackingVzWindowSetUp" alt="" coords="557,352,861,381"/>
+<area shape="rect" id="node53" href="$class_main_window.html#a2b4e461c83b7759359807ffecc5341a2" title="MainWindow::processTrackingData" alt="" coords="252,506,503,536"/>
+<area shape="rect" id="node65" href="$class_main_window.html#a0587faba030a8b9a1bba5bb3235ebe5c" title="MainWindow::readFile" alt="" coords="295,142,460,172"/>
+<area shape="rect" id="node77" href="$class_main_window.html#a46f5cca022a5b15f60064574dfbc64ba" title="MainWindow::setTrackingFlag" alt="" coords="269,640,485,669"/>
+<area shape="rect" id="node85" href="$class_main_window.html#afc6204696f28a25d6d4f5a0d01da9c36" title="MainWindow::setWhichStatToView" alt="" coords="252,773,503,802"/>
+<area shape="rect" id="node91" href="$class_main_window.html#aa328e33fe3b96ce0a0b334bd74160323" title="MainWindow::setWhoseStatToView" alt="" coords="249,826,505,856"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a73f2e7ac6d87fa6bc69496aadc98059a" title="MainWindow::killExistingWindows" alt="" coords="972,189,1212,218"/>
+<area shape="rect" id="node17" href="$class_kinect_interface.html#a13c9a56bd98aaf46329914b7323944c7" title="get the instance of the KinectInterface object this will call the init method of..." alt="" coords="993,296,1191,325"/>
+<area shape="rect" id="node38" href="$class_kinect_interface.html#aab50a8cdc60ad80f8ecbd28b1f6af42b" title="KinectInterface::setBoundsDefined" alt="" coords="960,349,1224,378"/>
+<area shape="rect" id="node19" href="$class_kinect_interface.html#a98b9d6c718284304d466c8115d97d0f1" title="private copy ctor as we are a singleton class" alt="" coords="1320,296,1480,325"/>
+<area shape="rect" id="node21" href="$class_kinect_interface.html#a87b442a4f36e646fd9f0d27509030f84" title="this hooks into the feenet callback system an is the main way of getting the data..." alt="" coords="1539,189,1773,218"/>
+<area shape="rect" id="node26" href="$class_q_kinect_process_events.html#a492cc55fcd53ffc1d4d2e4822c9234dc" title="sets the thread active this will loop the run thread with a while(m_active) setting..." alt="" coords="1529,242,1783,272"/>
+<area shape="rect" id="node28" href="$class_kinect_interface.html#aa6b0220f7d3310199f699a11ad04e1d0" title="start the Depth buffer grabbing subsystem" alt="" coords="1548,296,1764,325"/>
+<area shape="rect" id="node30" href="$class_kinect_interface.html#ac175937429aed66eac7a131ba540afb3" title="start the Video buffer grabbing subsystem" alt="" coords="1551,349,1761,378"/>
+<area shape="rect" id="node32" href="$class_kinect_interface.html#aa08ef063072d6dd62b72507c87fa689a" title="this hooks into the feenet callback system an is the main way of getting the data..." alt="" coords="1541,402,1771,432"/>
+<area shape="rect" id="node23" href="$class_kinect_interface.html#a94998433b4c199f8fc167f7d5abd0262" title="method to grab the depth passed to the depthCallback function as we are hooking into..." alt="" coords="1832,189,2043,218"/>
+<area shape="rect" id="node34" href="$class_kinect_interface.html#a350fab4e013ae9ebba93951e0c0ae097" title="method to grab the Video passed to the depthCallback function as we are hooking into..." alt="" coords="1835,402,2040,432"/>
+<area shape="rect" id="node55" href="$class_ball_points_processing.html#a0521cc82d6b36c17378069ba8537cbed" title="BallPointsProcessing::processTrackingData" alt="" coords="555,506,864,536"/>
+<area shape="rect" id="node63" href="$class_stats_visualization.html#a6adbeadf75c5631115ff02d170e0f9df" title="StatsVisualization::updateDisplay" alt="" coords="585,560,833,589"/>
+<area shape="rect" id="node57" href="$class_player_data.html#a336e1933ec8e93d340d7516972002989" title="PlayerData::setPlayerBallPts" alt="" coords="983,509,1201,538"/>
+<area shape="rect" id="node59" href="$class_player_data.html#a246cd86f2b639619accc9838c40df460" title="PlayerData::setPlayerDataProcessedFlag" alt="" coords="940,562,1244,592"/>
+<area shape="rect" id="node61" href="$class_player_data.html#a8b00e25bf1ee1e329f30b842992e84c5" title="PlayerData::setPlayerImpactPtIndices" alt="" coords="951,616,1233,645"/>
+<area shape="rect" id="node69" href="$class_stats_visualization.html#aac91d1feb6375b2a9eabbf66c3232256" title="StatsVisualization::readFile" alt="" coords="608,90,811,120"/>
+<area shape="rect" id="node71" href="$class_stats_visualization.html#acf88418e1908e5df828f112dae0f5c27" title="StatsVisualization::fillDataFromFileForBothPlayers" alt="" coords="913,82,1271,112"/>
+<area shape="rect" id="node79" href="$class_kinect_interface.html#a5ca72711b816896860035b9bfe5f51c2" title="KinectInterface::getBounds" alt="" coords="604,613,815,642"/>
+<area shape="rect" id="node81" href="$class_kinect_interface.html#a69b1c94d734bfe5a28491d2fb6f70534" title="KinectInterface::getTrackingFlag" alt="" coords="588,666,831,696"/>
+<area shape="rect" id="node83" href="$class_kinect_interface.html#a49f91219e04f60c9b75f9d7b8a68360e" title="KinectInterface::toggleTracking" alt="" coords="592,720,827,749"/>
+<area shape="rect" id="node87" href="$class_stats_visualization.html#ace73ee81d8523528d1f977c11469a5c0" title="StatsVisualization::setWhichStatToView" alt="" coords="564,773,855,802"/>
+<area shape="rect" id="node89" href="$class_stats_visualization.html#a42aa44b649ecb7751e9a8760f9400935" title="StatsVisualization::setWhoseStatToView" alt="" coords="561,826,857,856"/>
+</map>

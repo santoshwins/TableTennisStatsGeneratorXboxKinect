@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_kinect.html#a5ea7a4748c852b5398b87620378052e5" title="Kinect::DepthCallback" alt="" coords="159,5,332,35"/>
+<area shape="rect" id="node5" href="$class_kinect.html#a32362cec08f53cae1f56bbc7e28db926" title="Kinect::getDepth" alt="" coords="175,59,316,88"/>
+<area shape="rect" id="node7" href="$class_kinect.html#a18c12b1fd58dde75824f8cf86f5f3f77" title="Kinect::getRGB" alt="" coords="180,112,311,141"/>
+<area shape="rect" id="node9" href="$class_kinect.html#a3672693f083dcb020a0d912f9a3feae9" title="Kinect::VideoCallback" alt="" coords="161,165,329,195"/>
+</map>

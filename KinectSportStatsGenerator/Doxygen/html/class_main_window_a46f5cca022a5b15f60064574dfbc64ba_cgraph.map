@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$class_kinect_interface.html#a5ca72711b816896860035b9bfe5f51c2" title="KinectInterface::getBounds" alt="" coords="285,5,496,35"/>
+<area shape="rect" id="node5" href="$class_kinect_interface.html#a69b1c94d734bfe5a28491d2fb6f70534" title="KinectInterface::getTrackingFlag" alt="" coords="269,59,512,88"/>
+<area shape="rect" id="node7" href="$class_kinect_interface.html#a49f91219e04f60c9b75f9d7b8a68360e" title="KinectInterface::toggleTracking" alt="" coords="273,112,508,141"/>
+</map>

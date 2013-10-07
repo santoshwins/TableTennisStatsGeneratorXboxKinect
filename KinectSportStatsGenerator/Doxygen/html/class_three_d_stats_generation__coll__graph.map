@@ -1,0 +1,3 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$class_quad_curve_fit_utility.html" title="{QuadCurveFitUtility\n|# m_dataPoints\l# m_dataPointsAfterInterpol\l# m_hermiteInterPolPts\l# m_dataPointsHermite\l# m_a\l# m_b\l# m_c\l# m_steps\l# m_noOfPoints\l|+ QuadCurveFitUtility()\l+ ~QuadCurveFitUtility()\l+ getInterPolPts()\l+ addPoints()\l+ processPoints()\l+ processParametricPoints()\l+ processParametricPoints3D()\l+ getATerm()\l+ getBTerm()\l+ getCTerm()\l+ getRSquare()\l# getSxy()\l# getYMean()\l# getSStot()\l# getSSerr()\l# getPredictedY()\l# calculateHermiteCurvePts()\l# splinterp()\l# getDifferential()\l}" alt="" coords="55,5,287,541"/>
+</map>
