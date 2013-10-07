@@ -1,4 +1,4 @@
-GrenadeThrowGame
+Sports Statistics Visualization
 ================
 
 This represents the implementation of my Hawkeye inspired Masters project of a cost effective method to generate statistics suitable for sports broadcasting and player strategy analysis similar to tools such as Hawkeye innovations used in Cricket and Tennis.
